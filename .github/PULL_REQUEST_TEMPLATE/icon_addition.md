@@ -1,23 +1,20 @@
 # Description
-<!-- Please provide a short summary of what icons you added, changed, or linked
--->
+<!-- Please provide a short summary of your pull request. -->
 
 ## Icons addition information
-<!-- Please specify if you added an icon that was requested in the icon request form, as seen below -->
-### Icons added
-* App Name (`package.name`) - added from icon request form
-* App Name (`package.name`)
-* App Name (`package.name`)
+<!--  Please specify the apps and packages for which you have added, linked, or updated icons. Unnecessary sections can be deleted. -->
+### Added
+App Name (`com.package.app`)
+App Name (`com.package.app`)
 
-### Icons updated
-* App Name (`package.name`)
-* App Name (`package.name`)
+### Linked
+App Name (`com.package.app` → `drawable.svg`)
+App Name (`com.package.app` → `drawable.svg`)
 
-### Icons linked
-* App Name (linked `package.name` to `@drawable/package`)
-* App Name (linked `package.name` to `@drawable/package`)
+### Updated
+App Name (`com.package.app`)
+App Name (`com.package.app`)
 
 ## Contributor's checklist
-- [ ] I have followed the [Lawnicons Guidelines](https://github.com/LawnchairLauncher/lawnicons/blob/develop/.github/CONTRIBUTING.md)
-- [ ] I have ensured that Lawnicons builds correctly
-- [ ] I am willing to make changes to my icons if someone suggests changes
+<!-- Replace [ ] with [x] to check. -->
+- [ ] I made the icons following [the Lawnicons Guidelines](https://github.com/LawnchairLauncher/lawnicons/blob/develop/CONTRIBUTING.md) (upd. Jan 2024) and will make changes if someone suggests. I will also make sure that Lawnicons builds correctly.
